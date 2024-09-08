@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Dhruv, and I have done MAster's in Predictive Analytics from Curtin university.
+My name is Dhruv, and I have done Master's in Predictive Analytics from Curtin university.
 
 - 🔭 I’m currently working on buliding interactable dashboard using power BI
 - 📫 How to reach me: mittaldhruv85@gmail.com
